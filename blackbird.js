@@ -6,6 +6,7 @@
 	Version: 1.0
 
 	The MIT License - Copyright (c) 2008 Blackbird Project
+	test
 */
 ( function() {
 	var NAMESPACE = 'log';
